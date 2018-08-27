@@ -1,4 +1,4 @@
-CHARLIE Connector
+PROLOG Connector
 =================
 
 Setup
